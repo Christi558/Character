@@ -1,0 +1,42 @@
+
+
+.Start{
+    text-align: center;
+    border-bottom:2px solid Orange;
+}
+
+.Head{
+    border-bottom:2px solid Orange;
+    width:100px;
+}
+
+.right{
+    border-bottom:2px solid Orange;
+    width:220px;
+    text-align:right;
+}
+
+.Character2{
+    float:right;
+}
+
+.character{
+    border-bottom:2px solid Orange;
+    width:150px;
+}
+
+.Background{
+    background:rgb(180, 214, 236);
+}
+
+.logo{
+    float:left;
+}
+
+.One-more{
+    border-bottom:2px solid rgb(11, 104, 14);
+    width:350px;
+}
+
+
+
